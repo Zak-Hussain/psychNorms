@@ -1,5 +1,5 @@
 # psychNorms
-A systematically-derived metabase of XX psychological word norms, which was derived for the sake of interpretability analyses in the following paper:
+A systematically-derived metabase of XX psychological word norms, obtained for the sake of interpretability analyses in the following paper:
 
 ```
 @article{hussain2024probing,
