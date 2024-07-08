@@ -17,8 +17,7 @@ South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/coll
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes resulting in a metabase of XX psychological word norms.
 
 The metabase is composed of two files:
-- `psychNorms.csv`: Contains XX psychological norms (columns) at the word level (rows).
+- `psychNorms.csv.zip`: Contains XX psychological norms (columns) at the word level (rows).
 - `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`.
-
 
 Norms with title cased names are norms that also exist in SCOPE or the experiential attributes dataset. The remaining norms are uniquely derived from the systematic literature search.
