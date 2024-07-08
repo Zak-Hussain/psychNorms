@@ -19,3 +19,5 @@ a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated exp
 The metabase is composed of two files:
 - `psychNorms.csv`: Contains XX psychological norms (columns) at the word level (rows).
 - `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`.
+
+Norms with title cased names are norms that also exist in SCOPE or the experiential attributes dataset. The remaining norms are uniquely derived from the systematic literature search.
