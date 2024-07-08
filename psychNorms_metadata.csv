@@ -1,0 +1,1070 @@
+name,description,citation,categoryFreq_HAL,Log10 version of frequency norms based on the Hyperspace Analogue to Language (HAL) corpus.,"Lund, K. and C. Burgess (1996). ""Producing high-dimensional semantic spaces from lexical co-occurrence."" Behavior Research Methods, Instruments, & Computers 28(2): 203-208.",frequencyFreq_KF,Log10 version of frequency norms based on the Kucera and Francis corpus.,"Kučera, H. and W. N. Francis (1967). Computational analysis of present-day American English, Brown University Press.",frequencyFreq_SUBTLEXUS,Log10 version of frequency norms based on the SUBTLEXus corpus.,"Brysbaert, M. and B. New (2009). ""Moving beyond Kučera and Francis: A critical evaluation of current word frequency norms and the introduction of a new and improved word frequency measure for American English."" Behavior Research Methods41(4): 977-990.",frequencyFreq_SUBTLEXUK,Log10 version of the frequency norms based on SUBTLEXuk corpus.,"Van Heuven, W. J., et al. (2014). ""SUBTLEX-UK: A new and improved word frequency database for British English."" Quarterly Journal of Experimental Psychology67(6): 1176-1190.",frequencyFreq_Blog,Log10 version of the frequency norms based on sources from blogs.,"Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",frequencyFreq_Twitter,Log10 version of the frequency norms based on sources from Twitter.,"Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",frequencyFreq_News,Log10 version of the frequency norms based on sources from newspapers.,"Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",frequencyFreq_CobW,Log10 of word frequencies in written English based on COBUILD corpus.,"Baayen, R. H., et al. (1996). ""The CELEX lexical database (cd-rom).""",frequencyFreq_CobS,Log10 of word frequencies in spoken English based on COBUILD corpus.,"Baayen, R. H., et al. (1996). ""The CELEX lexical database (cd-rom).""",frequencyCD_SUBTLEXUS,"Log10 version of the contextual diversity of a word, which refers to the number of passages (documents) in the SUBTLEXus corpus containing a particular word.","Brysbaert, M. and B. New (2009). ""Moving beyond Kučera and Francis: A critical evaluation of current word frequency norms and the introduction of a new and improved word frequency measure for American English."" Behavior Research Methods41(4): 977-990.",semantic_diversityCD_SUBTLEXUK,"Log10 version of the contextual diversity of a word, which refers to the number of passages (documents) in the SUBTLEXuk corpus containing a particular word.","Van Heuven, W. J., et al. (2014). ""SUBTLEX-UK: A new and improved word frequency database for British English."" Quarterly Journal of Experimental Psychology67(6): 1176-1190.",semantic_diversityCD_Blog,"Log10 version of the contextual diversity of a word, which refers to the number of passages (documents) in the sources from Blog containing a particular word.","Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",semantic_diversityCD_Twitter,"Log10 version of the contextual diversity of a word, which refers to the number of passages (documents) in the sources from Twitter containing a particular word.","Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",semantic_diversityCD_News,"Log10 version of the contextual diversity of a word, which refers to the number of passages (documents) in the sources from newspapers containing a particular word.","Gimenes, M. and B. New (2016). ""Worldlex: Twitter and blog word frequencies for 66 languages."" Behavior Research Methods48(3): 963-972.",semantic_diversityFam_Glasgow,A word’s subjective familarity on a 1 (unfamiliar) to 7 (familiar) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",familiarityFam_Brys,Percentage of participants who know the word well enough to give answer for the concreteness rating.,"Brysbaert, M., et al. (2014). ""Concreteness ratings for 40 thousand generally known English word lemmas."" Behavior Research Methods46(3): 904-911.",familiarityPrevalence_Brys,"The proportion of people who know the word, in which participants were asked to indicate whether or not they knew the stimulus in a list of words and nonwords, in an online crowdsourcing study. Percentages were translated to z values on the the basis of cumulative normal distribution. A word known by 2.5% of the participants corresponds to a word prelevance of -1.96; a word known by 97.5% of the participants corresponds to a prevalence of +1.96.","Brysbaert, M., et al. (2019). ""Word prevalence norms for 62,000 English lemmas."" Behavior Research Methods51(2): 467-479.",familiarityAoA_Kuper,"The age at which people acquired the word, in which  participants were asked to enter the age (in years) at which they thought they had learned the word.","Kuperman, V., et al. (2012). ""Age-of-acquisition ratings for 30,000 English words."" Behavior Research Methods44(4): 978-990.",age_of_acquisitionAoA_LWV,"The age at which people acquired the word, in which a three-choice test was administered to participants in grades 4 to 16 (college) (Living Word Vocabulary database).","Brysbaert, M. (2017). ""Age of acquisition ratings score better on criterion validity than frequency trajectory or ratings “corrected” for frequency."" Quarterly Journal of Experimental Psychology70(7): 1129-1139. Dale, E. and J. O’Rourke (1981). The Living Word Vocabulary. Chicago: World Book-Childcraft International, Inc.",age_of_acquisitionAoA_Glasgow,"Rated age of acquisition, which indicates the age at which people acquired the word on 1 (early) to 7 (late) scale.","Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",age_of_acquisitionFreqtraj_TASA,How experience with a word is distributed over time based on the TASA corpus. It was computed by first taking logarithms of the frequencies and then transforming them to z-values for low (first three grades) and high grades (last three grades) respectively.,"Brysbaert, M. (2017). ""Age of acquisition ratings score better on criterion validity than frequency trajectory or ratings “corrected” for frequency."" Quarterly Journal of Experimental Psychology70(7): 1129-1139.",frequencyDPoS_Brys,The dominant grammatical category to which a word is assigned in accordance with its syntactic functions.,"Brysbaert, M., et al. (2012). ""Adding part-of-speech information to the SUBTLEX-US word frequencies."" Behavior Research Methods44(4): 991-997.",part_of_speechDPoS_VanH,The dominant grammatical category to which a word is assigned in accordance with its syntactic functions.,"Van Heuven, W. J., et al. (2014). ""SUBTLEX-UK: A new and improved word frequency database for British English."" Quarterly Journal of Experimental Psychology67(6): 1176-1190.",part_of_speechConc_Brys,The degree to which the concept can be experienced directly through the senses from a 1 (abstract) to 5 (concrete) scale.,"Brysbaert, M., et al. (2014). ""Concreteness ratings for 40 thousand generally known English word lemmas."" Behavior Research Methods46(3): 904-911.",concretenessConc_Glasgow,The degree to which the concept can be experienced directly through the senses from a 1 (abstract) to 7 (concrete) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",concretenessImag_Glasgow,The degree of effort involved in generating a mental image of the concept on a 1 (unimageable) to 7 (imageable) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",imageabilityNsenses_WordNet,Number of senses based on the WordNet database.,"Miller, G. A. (1995). ""WordNet: a lexical database for English."" Communications of the ACM38(11): 39-41.",semantic_diversityNsenses_Wordsmyth,Number of senses based on the Wordsmyth dictionary.,"Rice, C. A., et al. (2019). ""A comparison of homonym meaning frequency estimates derived from movie and television subtitles, free association, and explicit ratings."" Behavior Research Methods51(3): 1399-1425.",semantic_diversityNmeanings_Wordsmyth,Number of meanings based on the Wordsmyth dictionary.,"Rice, C. A., et al. (2019). ""A comparison of homonym meaning frequency estimates derived from movie and television subtitles, free association, and explicit ratings."" Behavior Research Methods51(3): 1399-1425.",semantic_diversityNmeanings_Websters,Number of meanings based on the Websters dictionary.,"Gao, C., Shinkareva, S. V., & Desai, R. H. ""SCOPE: The South Carolina Psycholinguistic Metabase"" (forthcoming)",semantic_diversityNFeatures,Number of features listed for the word. This measure was obtained by asking participants to provide lists of features for each concept presented.,"Buchanan, E. M., et al. (2019). ""English semantic feature production norms: An extended database of 4436 concepts."" Behavior Research Methods51(4): 1849-1863.",number_of_featuresVisual_Lanc,"To what extent one experiences the referent by seeing, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",sensoryAuditory_Lanc,"To what extent one experiences the referent by hearing, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",sensoryHaptic_Lanc,"To what extent one experiences the referent by feeling through touch, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",sensoryOlfactory_Lanc,"To what extent one experiences the referent by smelling, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",sensoryGustatory_Lanc,"To what extent one experiences the referent by tasting, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",sensoryInteroceptive_Lanc,"To what extent one experiences the referent by sensations inside one’s body, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorHead_Lanc,"To what extent one experiences the referent by performing an action with the head, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorTorso_Lanc,"To what extent one experiences the referent by performing an action with the torso, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorMouth_Throat_Lanc,"To what extent one experiences the referent by performing an action with the Mouth/throat, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorHand_Arm_Lanc,"To what extent one experiences the referent by performing an action with the hand/arm, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorFoot_Leg_Lanc,"To what extent one experiences the referent by performing an action with the foot/leg, from 0 (not experienced at all) to 5 (experienced greatly).","Lynott, D., et al. (2020). ""The Lancaster Sensorimotor Norms: Multidimensional measures of Perceptual and Action Strength for 40,000 English words."" Behavior Research Methods52(3): 1271-1291.",motorBOI,The ease with which the human body can interact with a word’s referent on a scale from 1 (low interaction) to 7 (high interaction).,"Pexman, P. M., et al. (2019). ""Quantifying sensorimotor experience: Body–object interaction ratings for more than 9,000 English words."" Behavior Research Methods51(2): 453-466.",motorCBOI,The ease with which an average 6-year-old child can interact with each word’s referent on a scale from 1 (low interaction) to 7 (high interaction).,"Muraki, E. J., Siddiqui, I. A., & Pexman, P. M. (2022). Quantifying children’s sensorimotor experience: Child body–object interaction ratings for 3359 English words. Behavior Research Methods, 54(6), 2864-2877.",motorSem_Size_Glasgow,Magnitude of an object or concept expressed in either concrete (physical) or abstract terms on a 1 (small) to 7 (big) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",space/time/quantityGender_Assoc_Glasgow,The degree to which words are considered to be associated with male or female behavior on a 1 (feminine) to 7 (masculine) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",social/moralFeature_Visual,Feature weight that describes information associated with sense of vision as indicated by 0 or 1.,"Vinson, D. P. and G. Vigliocco (2008). ""Semantic feature production norms for a large set of objects and events."" Behavior Research Methods40(1): 183-190.",sensoryFeature_Perceptual,"Feature weight that describes information gained through sensory input, including body state and proprioception as indicated by 0 or 1.","Vinson, D. P. and G. Vigliocco (2008). ""Semantic feature production norms for a large set of objects and events."" Behavior Research Methods40(1): 183-190.",sensoryFeature_Functional,"Feature weight that refers to the purpose of a thing, or the purpose or goal of an action, as indicated by 0 or 1.","Vinson, D. P. and G. Vigliocco (2008). ""Semantic feature production norms for a large set of objects and events."" Behavior Research Methods40(1): 183-190.",motorFeature_Motoric,Feature weight that describes a such motor component of an action as indicated by 0 or 1.,"Vinson, D. P. and G. Vigliocco (2008). ""Semantic feature production norms for a large set of objects and events."" Behavior Research Methods40(1): 183-190.",motorSensory_Experience,"The extent to which a word evokes a sensory and/or perceptual experience in the mind of the reader on a 1 to 7 scale, with higher numbers indicating a greater sensory experience.","Juhasz, B.J., Yap, M.J. Sensory experience ratings for over 5,000 mono- and disyllabic words. Behav Res 45, 160–168 (2013).",sensorySocialness,The extent to which a word's meaning has social relevance on a seven-point Likert scale from 1 to 7.,"Diveica, V., Pexman, P. M., & Binney, R. J. (2022). Quantifying social semantics: An inclusive definition of socialness and ratings for 8388 English words. Behavior Research Methods, 1-13.",social/moralValence_Warr,The pleasantness of a stimulus on a 1 (happy) to 9 (unhappy) scale.,"Warriner, A. B., et al. (2013). ""Norms of valence, arousal, and dominance for 13,915 English lemmas."" Behavior Research Methods45(4): 1191-1207.",valenceValence_Glasgow,The pleasantness of a stimulus on a 1 (happy) to 9 (unhappy) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",valenceValence_NRC,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with scores ranging from 0 (negative) to 1 (positive).","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",valenceValence_Covid_Younger,Participants with mean age of 34 were asked to provide a rating on a scale of 1 (unhappy) to 9 (happy) of how you felt while reading each word. If the participants feel completely neutral you should rate a 5 during the COVID-19 pandemic,"Kyröläinen, A. J., Luke, J., Libben, G., & Kuperman, V. (2022). Valence norms for 3,600 English words collected during the COVID-19 pandemic: Effects of age and the pandemic. Behavior Research Methods, 54(5), 2445-2456.",valenceValence_Covid_Older,Participants with mean age of 70 were asked to provide a rating on a scale of 1 (unhappy) to 9 (happy) of how you felt while reading each word. If the participants feel completely neutral you should rate a 5 during the COVID-19 pandemic,"Kyröläinen, A. J., Luke, J., Libben, G., & Kuperman, V. (2022). Valence norms for 3,600 English words collected during the COVID-19 pandemic: Effects of age and the pandemic. Behavior Research Methods, 54(5), 2445-2456.",valenceArousal_Warr,The intensity of emotion provoked by a stimulus on a 1 (aroused) to 9 (calm) scale.,"Warriner, A. B., et al. (2013). ""Norms of valence, arousal, and dominance for 13,915 English lemmas."" Behavior Research Methods45(4): 1191-1207.",arousalArousal_Glasgow,The intensity of emotion provoked by a stimulus on a 1 (aroused) to 9 (calm) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",arousalArousal_NRC,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with scores ranging from 0 (low arousal) to 1 (high arousal).","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",arousalDominance_Warr,The degree of control exerted by a stimulus on a 1 (controlled) to 9 (in control) scale.,"Warriner, A. B., et al. (2013). ""Norms of valence, arousal, and dominance for 13,915 English lemmas."" Behavior Research Methods45(4): 1191-1207.",dominanceDominance_Glasgow,The degree of control exerted by a stimulus on a 1 (controlled) to 9 (in control) scale.,"Scott, G. G., et al. (2019). ""The Glasgow Norms: Ratings of 5,500 words on nine scales."" Behavior Research Methods51(3): 1258-1270.",dominanceDominance_NRC,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with scores ranging from 0 (low dominance) to 1 (high dominance).","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",dominanceHumor_Overall_Enge,Overall humor ratings for words on a scale from 1 (humorless) to 5 (humorous).,"Engelthaler, T. and T. T. Hills (2018). ""Humor norms for 4,997 English words."" Behavior Research Methods50(3): 1116-1124.",social/moralEmot_Assoc_Anger,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Anticipation,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Disgust,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Fear,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Joy,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Negative,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Positive,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Sadness,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Surprise,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionEmot_Assoc_Trust,"Word-emotion association built by manual annotation using Best-Worst Scaling method, with 0 (not associated) and 1 (associated) ratings for 10 emotions: positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.","Mohammad, S. and P. Turney (2010). Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon. Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text. Mohammad, S. M. and P. D. Turney (2013). ""Crowdsourcing a word–emotion association lexicon."" Computational intelligence 29(3): 436-465.
+
+
+",emotionSem_Diversity,The degree to which different contexts associated with a word vary in their meanings.,"Hoffman, P., et al. (2013). ""Semantic diversity: A measure of semantic ambiguity based on variability in the contextual usage of words."" Behavior Research Methods45(3): 718-730.",semantic_diversitySem_N,"The number of semantic neighbors within a threshold. The threshold is a distance in co-occurrence space, which is calculated by randomly sampling many word pairs and calculating their interword distances to obtain the mean and standard deviation of this distance distribution.","Shaoul, C. and C. Westbury (2006). ""Word frequency effects in high-dimensional co-occurrence models: A new approach."" Behavior Research Methods38(2): 190-195. Shaoul, C. and C. Westbury (2010). ""Exploring lexical co-occurrence space using HiDEx."" Behavior Research Methods 42(2): 393-413.
+
+
+",semantic_neighborhoodSem_N_D,"The average radius of co-occurrence, which is the average distance between the words in the semantic neighborhood and the target word.","Shaoul, C. and C. Westbury (2006). ""Word frequency effects in high-dimensional co-occurrence models: A new approach."" Behavior Research Methods38(2): 190-195. Shaoul, C. and C. Westbury (2010). ""Exploring lexical co-occurrence space using HiDEx."" Behavior Research Methods 42(2): 393-413.
+
+
+",semantic_neighborhoodAssoc_Freq_Token123,The number of times that a word is one of the first three associates across all target words.,"De Deyne, S., et al. (2019). ""The “Small World of Words” English word association norms for over 12,000 cue words."" Behavior Research Methods51(3): 987-1006.",semantic_neighborhoodCue_SetSize,"The number of different responses or targets given by two or more participants in the normative sample, which provides a relative index of the set size of a particular word by providing a reliable measure of how many strong associates it has.","Nelson, D. L., et al. (2004). ""The University of South Florida free association, rhyme, and word fragment norms."" Behavior Research Methods, Instruments, & Computers36(3): 402-407.",semantic_neighborhoodCue_MeanConn,"The number of connections among the associates in a set divided by the size of the set, which captures the density and in some sense the level of organization among the strongest associates of the cue.","Nelson, D. L., et al. (2004). ""The University of South Florida free association, rhyme, and word fragment norms."" Behavior Research Methods, Instruments, & Computers36(3): 402-407.",semantic_neighborhoodCue_Prob,The probability that each associate in a set produces the normed cue as an associate.,"Nelson, D. L., et al. (2004). ""The University of South Florida free association, rhyme, and word fragment norms."" Behavior Research Methods, Instruments, & Computers36(3): 402-407.",semantic_neighborhoodCue_ResoStrength,Cue resonance strength. This is calculated by cross-multiplying cue-to-associate strength by associate-to-cue strength for each associate in a set and then summing the result.,"Nelson, D. L., et al. (2004). ""The University of South Florida free association, rhyme, and word fragment norms."" Behavior Research Methods, Instruments, & Computers36(3): 402-407.",semantic_neighborhoodLexicalD_RT_V_ELP,The mean visual lexical decision latency (in msec) for a particular word across participants from the English Lexicon Project.,"Balota, D. A., et al. (2007). ""The English lexicon project."" Behavior Research Methods39(3): 445-459.",visual_lexical_decisionLexicalD_RT_V_ECP,"The mean visual lexical decision latency (in msec) for a particular word in the word knowledge task across participants from the English Crowdsourcing Project. This task is similar, but not identical, to the traditional lexical decision task. Participants were asked to indicate whether each item “is a word you know or not.” Their results showed that RTs in this task correlate well with those from lexical decision in ELP and BLP, and hence we have labelled it as such. It should be noted that in this task, participants were not instructed to respond quickly, and were discouraged to guess (large penalty for labelling nonwords as a known word).","Mandera, P., et al. (2019). ""Recognition times for 62 thousand English words: Data from the English Crowdsourcing Project."" Behavior Research Methods: 1-20.",visual_lexical_decisionLexicalD_RT_V_BLP,The mean visual lexical decision latency (in msec) for a particular word across participants from the British Lexicon Project.,"Keuleers, E., et al. (2012). ""The British Lexicon Project: Lexical decision data for 28,730 monosyllabic and disyllabic English words."" Behavior Research Methods44(1): 287-304.",visual_lexical_decisionLexicalD_ACC_V_ELP,The proportion of accurate responses of visual lexical decision for a particular word from the English Lexicon Project.,"Balota, D. A., et al. (2007). ""The English lexicon project."" Behavior Research Methods39(3): 445-459.",visual_lexical_decisionLexicalD_ACC_V_ECP,The proportion of accurate responses of visual lexical decision for a particular word from the English Crowdsourcing Project.,"Mandera, P., et al. (2019). ""Recognition times for 62 thousand English words: Data from the English Crowdsourcing Project."" Behavior Research Methods: 1-20.",visual_lexical_decisionLexicalD_ACC_V_BLP,The proportion of accurate responses of visual lexical decision for a particular word from the British Lexicon Project.,"Keuleers, E., et al. (2012). ""The British Lexicon Project: Lexical decision data for 28,730 monosyllabic and disyllabic English words."" Behavior Research Methods44(1): 287-304.",visual_lexical_decisionLexicalD_RT_A_MALD,The mean auditory lexical decision latency (in msec) for a particular word from the Massive Auditory Lexical Decision database.,"Tucker, B. V., et al. (2019). ""The massive auditory lexical decision (MALD) database."" Behavior Research Methods51(3): 1187-1204.",autidtory_lexical_decisionLexicalD_RT_A_AELP,The mean auditory lexical decision latency (in msec) for a particular word from the Auditory English Lexicon Project.,"Goh, W. D., et al. (2020). ""The Auditory English Lexicon Project: A multi-talker, multi-region psycholinguistic database of 10,170 spoken words and nonwords."" Behavior Research Methods: 1-30.",autidtory_lexical_decisionLexicalD_ACC_A_MALD,The proportion of accurate responses of auditory lexical decision for a particular word from the Massive Auditory Lexical Decision database.,"Tucker, B. V., et al. (2019). ""The massive auditory lexical decision (MALD) database."" Behavior Research Methods51(3): 1187-1204.",autidtory_lexical_decisionLexicalD_ACC_A_AELP,The proportion of accurate responses of auditory lexical decision for a particular word from the Auditory English Lexicon Project.,"Goh, W. D., et al. (2020). ""The Auditory English Lexicon Project: A multi-talker, multi-region psycholinguistic database of 10,170 spoken words and nonwords."" Behavior Research Methods: 1-30.",autidtory_lexical_decisionNaming_RT_ELP,The mean naming latency (in msec) for a particular word across participants from the English Lexicon Project.,"Balota, D. A., et al. (2007). ""The English lexicon project."" Behavior Research Methods39(3): 445-459.",namingNaming_ACC_ELP,The proportion of accurate responses of word naming for a particular word from the English Lexicon Project.,"Balota, D. A., et al. (2007). ""The English lexicon project."" Behavior Research Methods39(3): 445-459.",namingSemanticD_RT_Calgary,"The mean latency (in msec) of concrete/abstract semantic decision (i.e., does the word refer to something concrete or abstract?) for a particular word from the Calgary database.","Pexman, P. M., et al. (2017). ""The Calgary semantic decision project: concrete/abstract decision data for 10,000 English words."" Behavior Research Methods49(2): 407-417.",semantic_decisionSemanticD_ACC_Calgary,"The proportion of accurate responses of concrete/abstract semantic decision (i.e., does the word refer to something concrete or abstract?) for a particular word from the Calgary database.","Pexman, P. M., et al. (2017). ""The Calgary semantic decision project: concrete/abstract decision data for 10,000 English words."" Behavior Research Methods49(2): 407-417.",semantic_decisionRecog_Memory,Recogntion memory performance indicated by hits minus false alarms.,"Cortese, M. J., Khanna, M. M., & Hacker, S. (2010). Recognition memory for 2,578 monosyllabic words. Memory, 18(6), 595-609; Cortese, M. J., McCarty, D. P., & Schock, J. (2015). A mega recognition memory study of 2897 disyllabic words. Quarterly Journal of Experimental Psychology, 68(8), 1489-1501; Khanna, M. M. and M. J. Cortese (2021). ""How well imageability, concreteness, perceptual strength, and action strength predict recognition memory, lexical decision, and reading aloud performance."" Memory: 1-15.",recognition_memoryVision_Binder,Vision ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryBright_Binder,Bright ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryDark_Binder,Dark ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryColor_Binder,Color ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryPattern_Binder,Pattern ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryLarge_Binder,Large ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantitySmall_Binder,Small ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityMotion_Binder,Motion ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyBiomotion_Binder,Biomotion ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyFast_Binder,Fast ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantitySlow_Binder,Slow ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityShape_Binder,Shape ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryComplexity_Binder,Complexity ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryFace_Binder,Face ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyBody_Binder,Body ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyTouch_Binder,Touch ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",motorTemperature_Binder,Temperature ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityTexture_Binder,Texture ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryWeight_Binder,Weight ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityPain_Binder,Pain ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionAudition_Binder,Audition ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryLoud_Binder,Loud ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryLow_Binder,Low ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityHigh_Binder,High ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantitySound_Binder,Sound ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryMusic_Binder,Music ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensorySpeech_Binder,Speech ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyTaste_Binder,Taste ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensorySmell_Binder,Smell ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",sensoryHead_Binder,Head ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",motorUpperLimb_Binder,UpperLimb ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",motorLowerLimb_Binder,LowerLimb ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",motorPractice_Binder,Practice ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",familiarityLandmark_Binder,Landmark ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityPath_Binder,Path ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityScene_Binder,Scene ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityNear_Binder,Near ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityToward_Binder,Toward ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityAway_Binder,Away ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityNumber_Binder,Number ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityTime_Binder,Time ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityDuration_Binder,Duration ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityLong_Binder,Long ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityShort_Binder,Short ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityCaused_Binder,Caused ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantityConsequential_Binder,Consequential ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",space/time/quantitySocial_Binder,Social ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",social/moralHuman_Binder,Human ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyCommunication_Binder,Communication ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",social/moralSelf_Binder,Self ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",social/moralCognition_Binder,Cognition ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",animacyBenefit_Binder,Benefit ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",social/moralHarm_Binder,Harm ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",social/moralPleasant_Binder,Pleasant ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",valenceUnpleasant_Binder,Unpleasant ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",valenceHappy_Binder,Happy ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionSad_Binder,Sad ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionAngry_Binder,Angry ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionDisgusted_Binder,Disgusted ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionFearful_Binder,Fearful ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionSurprised_Binder,Surprised ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",emotionDrive_Binder,Drive ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",goals/needsNeeds_Binder,Needs ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",goals/needsAttention_Binder,Attention ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",arousalArousal_Binder,Arousal ratings on a scale from 0 (Not at all) to 6 (very much).,"Binder, J. R., Conant, L. L., Humphries, C. J., Fernandino, L., Simons, S. B., Aguilar, M., & Desai, R. H. (2016). Toward a brain-based componential semantic representation. Cognitive neuropsychology, 33(3-4), 130-174.",arousalgoals_wilkowski,"Extent to which each word represents a goal of the participants, from -4 (""I have an extremely strong commitment to avoiding this"") to 0 (""I have no commitment to this"") to +4 (“Ihave an extremely strong commitment to this"")","@article{wilkowski2020lexical,
+  title={Lexical derivation of the PINT taxonomy of goals: Prominence, inclusiveness, negativity prevention, and tradition.},
+  author={Wilkowski, Benjamin M and Fetterman, Adam and Lappi, Shaun K and Williamson, Laverl Z and Leki, Elizabeth Ferguson and Rivera, Emilio and Meier, Brian P},
+  journal={Journal of Personality and Social Psychology},
+  volume={119},
+  number={5},
+  pages={1153},
+  year={2020},
+  publisher={American Psychological Association}
+}",goals/needsfamiliarity_lyn,Proportion of participants that were familiar withthe meaning of the word (0-100%),"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",familiarityvisual_lyn,Mean rating (0–5) of how strongly property is experienced by seeing,"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensoryhaptic_lyn,Mean rating (0–5) of how strongly property is experienced by feeling through touch,"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensoryauditory_lyn,Mean rating (0–5) of how strongly property is experienced by hearing,"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensoryolfactory_lyn,Mean rating (0–5) of how strongly property is experienced by smelling,"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensorygustatory_lyn,Mean rating (0–5) of how strongly property is experienced by tasting,"@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensorydominant_modality_lyn,"Modality through which property is experienced most strongly (i.e., with highest strength rating)","@article{lynott2009modality,
+  title={Modality exclusivity norms for 423 object properties},
+  author={Lynott, Dermot and Connell, Louise},
+  journal={Behavior research methods},
+  volume={41},
+  number={2},
+  pages={558--564},
+  year={2009},
+  publisher={Springer}
+}",sensoryimagery_toronto,"Ease with which word arouses mental images, where (1) is low imagery and (7) is high imagery","@article{friendly1982toronto,
+  title={The Toronto Word Pool: Norms for imagery, concreteness, orthographic variables, and grammatical usage for 1,080 words},
+  author={Friendly, Michael and Franklin, Patricia E and Hoffman, David and Rubin, David C},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={14},
+  number={4},
+  pages={375--399},
+  year={1982},
+  publisher={Springer}
+}",imageabilityconcreteness_toronto,"Level of abstraction, where (1) is abstract and (7) is concrete. ","@article{friendly1982toronto,
+  title={The Toronto Word Pool: Norms for imagery, concreteness, orthographic variables, and grammatical usage for 1,080 words},
+  author={Friendly, Michael and Franklin, Patricia E and Hoffman, David and Rubin, David C},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={14},
+  number={4},
+  pages={375--399},
+  year={1982},
+  publisher={Springer}
+}",concretenessaoa_khanna,Participant esimate of the age of acquiring the word. 1-7 scale with lower number indicating younger and 7 indicating they do not know the word.,"@article{khanna2011age,
+  title={Age of acquisition estimates for 1,208 ambiguous and polysemous words},
+  author={Khanna, Maya M and Cortese, Michael J},
+  journal={Behavior Research Methods},
+  volume={43},
+  pages={89--96},
+  year={2011},
+  publisher={Springer}
+}",age_of_acquisitionrt_khanna,Reaction time (milliseconds) for performing the aoa_khanna rating task. ,"@article{khanna2011age,
+  title={Age of acquisition estimates for 1,208 ambiguous and polysemous words},
+  author={Khanna, Maya M and Cortese, Michael J},
+  journal={Behavior Research Methods},
+  volume={43},
+  pages={89--96},
+  year={2011},
+  publisher={Springer}
+}",semantic_decisionaoa_hollis,Value score ranging from 0 (youngest) to 1 (oldest) based on 4-tuple rating task. ,"@article{hollis2018best,
+  title={When is best-worst best? A comparison of best-worst scaling, numeric estimation, and rating scales for collection of semantic norms},
+  author={Hollis, Geoff and Westbury, Chris},
+  journal={Behavior research methods},
+  volume={50},
+  pages={115--133},
+  year={2018},
+  publisher={Springer}
+}",age_of_acquisitionvalence_hollis,Value score ranging from 0 (least pleasant) to 1 (most pleaseant)  based on 4-tuple rating task. ,"@article{hollis2018best,
+  title={When is best-worst best? A comparison of best-worst scaling, numeric estimation, and rating scales for collection of semantic norms},
+  author={Hollis, Geoff and Westbury, Chris},
+  journal={Behavior research methods},
+  volume={50},
+  pages={115--133},
+  year={2018},
+  publisher={Springer}
+}",valencearousal_hollis,Value score ranging from 0 (least arousing) to 1 (most arousing)  based on 4-tuple rating task. ,"@article{hollis2018best,
+  title={When is best-worst best? A comparison of best-worst scaling, numeric estimation, and rating scales for collection of semantic norms},
+  author={Hollis, Geoff and Westbury, Chris},
+  journal={Behavior research methods},
+  volume={50},
+  pages={115--133},
+  year={2018},
+  publisher={Springer}
+}",arousalconcreteness_hollis,Proportion of times an item was chosen as the least concrete subtracted from the proportion of ties it was chosen as the most concrete  based on 4-tuple rating task.  ,"@article{hollis2018best,
+  title={When is best-worst best? A comparison of best-worst scaling, numeric estimation, and rating scales for collection of semantic norms},
+  author={Hollis, Geoff and Westbury, Chris},
+  journal={Behavior research methods},
+  volume={50},
+  pages={115--133},
+  year={2018},
+  publisher={Springer}
+}",concretenessaoa_stratton,"Ratings on a scale of 1 (prenursery, age 2) to 9 (eight grade and above, age 13 and older) (White, 2973)","@article{stration1975age,
+  title={Age-of-acquisition, imagery, familiarity and meaningfulness norms for 543 words},
+  author={Stration, R Paul and Jacobus, Kenneth A and Brinley, Bonnie},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={7},
+  number={1},
+  pages={1--6},
+  year={1975},
+  publisher={Springer}
+}",age_of_acquisitionimagery_stratton,"Ratings on a scale of 1 (very difficult, image aroused after a long delay or not at all) to 5 (very easy, image aroused immediately (Pavia et al, 1968)","@article{stration1975age,
+  title={Age-of-acquisition, imagery, familiarity and meaningfulness norms for 543 words},
+  author={Stration, R Paul and Jacobus, Kenneth A and Brinley, Bonnie},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={7},
+  number={1},
+  pages={1--6},
+  year={1975},
+  publisher={Springer}
+}",imageabilityfamiliarity_stratton,Ratings on a scale of 1 (never used) to 5 (used every day),"@article{stration1975age,
+  title={Age-of-acquisition, imagery, familiarity and meaningfulness norms for 543 words},
+  author={Stration, R Paul and Jacobus, Kenneth A and Brinley, Bonnie},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={7},
+  number={1},
+  pages={1--6},
+  year={1975},
+  publisher={Springer}
+}",familiaritymeaningfulness_stratton,Mean number of associations give under Noble's (1952) instructions for a 30 second production period.,"@article{stration1975age,
+  title={Age-of-acquisition, imagery, familiarity and meaningfulness norms for 543 words},
+  author={Stration, R Paul and Jacobus, Kenneth A and Brinley, Bonnie},
+  journal={Behavior Research Methods \& Instrumentation},
+  volume={7},
+  number={1},
+  pages={1--6},
+  year={1975},
+  publisher={Springer}
+}",associatabilityvalence_garrido,Extent to which participants thought the word generated negative or positive feelings (from 1 = Very negative to 7 = Very positive),"@article{garrido2021comparing,
+  title={Comparing the valence, emotionality and subjective familiarity of words in a first and a second language},
+  author={Garrido, Margarida V and Prada, Mar{\'\i}lia},
+  journal={International Journal of Bilingual Education and Bilingualism},
+  volume={24},
+  number={2},
+  pages={275--291},
+  year={2021},
+  publisher={Taylor \& Francis}
+}",valenceemotionality_garrido,Extent to which participants thought the feeling generated by the word was intense (from 1 = Not very intense to 7 = Very intense),"@article{garrido2021comparing,
+  title={Comparing the valence, emotionality and subjective familiarity of words in a first and a second language},
+  author={Garrido, Margarida V and Prada, Mar{\'\i}lia},
+  journal={International Journal of Bilingual Education and Bilingualism},
+  volume={24},
+  number={2},
+  pages={275--291},
+  year={2021},
+  publisher={Taylor \& Francis}
+}",emotionfamiliarity_garrido,"subjective rating of how frequently the person reads, speaks or listens to the word (from 1 = Not very familiar to 7 = Very familiar)","@article{garrido2021comparing,
+  title={Comparing the valence, emotionality and subjective familiarity of words in a first and a second language},
+  author={Garrido, Margarida V and Prada, Mar{\'\i}lia},
+  journal={International Journal of Bilingual Education and Bilingualism},
+  volume={24},
+  number={2},
+  pages={275--291},
+  year={2021},
+  publisher={Taylor \& Francis}
+}",familiarityangry_zupan,Degree to which word represents angry,"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",emotionfearful_zupan,Degree to which word represents fearful,"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",emotionhappy_zupan,Degree to which word represents happy,"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",emotionintensity_zupan,Participnt ratings of intensity (1 = extremely low; 9 = extremely high),"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",emotionneutral_zupan,Degree to which word represents neutral,"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",valencesad_zupan,Degree to which word represents sad,"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",emotionvalence_zupan,Participant ratings of valence (1 = extremely negative; 9 = extremely positive),"@article{zupan2023categorising,
+  title={Categorising emotion words: the influence of response options},
+  author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
+  journal={Language and Cognition},
+  volume={15},
+  number={1},
+  pages={29--52},
+  year={2023},
+  publisher={Cambridge University Press}
+}",valenceaoa_bird,"Age of acquisition ratings converted from participant's having circled age bands to a 1-7 scale (1=0-2 years, 7=13 years and older), with interim bands of two years each. Rating for each item was multiplied by 100 for consistency with MRC psychonliguistic database (1997)","@article{bird2001age,
+  title={Age of acquisition and imageability ratings for a large set of words, including verbs and function words},
+  author={Bird, Helen and Franklin, Sue and Howard, David},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={33},
+  number={1},
+  pages={73--79},
+  year={2001},
+  publisher={Springer}
+}",age_of_acquisitionimageability_bird,"Participant ratings of imageability (1=least imageable, 7=most imageable)","@article{bird2001age,
+  title={Age of acquisition and imageability ratings for a large set of words, including verbs and function words},
+  author={Bird, Helen and Franklin, Sue and Howard, David},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={33},
+  number={1},
+  pages={73--79},
+  year={2001},
+  publisher={Springer}
+}",imageabilityrt_ley,Mean time between cue and response (seconds),"@article{ley1975associative,
+  title={Associative reaction time, meaningfulness, and pronunciability ratings of 382 words and paralogs},
+  author={Ley, Ronald and Tesiny, Edward},
+  journal={Bulletin of the Psychonomic Society},
+  volume={6},
+  number={6},
+  pages={645--648},
+  year={1975},
+  publisher={Springer}
+}",semantic_decisionmeaningfulness_ley,mean participant estimate of the number of associations they could make to each word in relation to the other units along a continuum from 1 (none) to 5 (very many).,"@article{ley1975associative,
+  title={Associative reaction time, meaningfulness, and pronunciability ratings of 382 words and paralogs},
+  author={Ley, Ronald and Tesiny, Edward},
+  journal={Bulletin of the Psychonomic Society},
+  volume={6},
+  number={6},
+  pages={645--648},
+  year={1975},
+  publisher={Springer}
+}",associatabilityhappiness_stevenson,"Mean participant rating of word on how strongly the word elicits happiness (1=not at all, 5=extremely)","@article{stevenson2007characterization,
+  title={Characterization of the affective norms for English words by discrete emotional categories},
+  author={Stevenson, Ryan A and Mikels, Joseph A and James, Thomas W},
+  journal={Behavior research methods},
+  volume={39},
+  number={4},
+  pages={1020--1024},
+  year={2007},
+  publisher={Springer}
+}",emotionanger_stevenson,"Mean participant rating of word on how strongly the word elicits anger (1=not at all, 5=extremely)","@article{stevenson2007characterization,
+  title={Characterization of the affective norms for English words by discrete emotional categories},
+  author={Stevenson, Ryan A and Mikels, Joseph A and James, Thomas W},
+  journal={Behavior research methods},
+  volume={39},
+  number={4},
+  pages={1020--1024},
+  year={2007},
+  publisher={Springer}
+}",emotionsadness_stevenson,"Mean participant rating of word on how strongly the word elicits sadness (1=not at all, 5=extremely)","@article{stevenson2007characterization,
+  title={Characterization of the affective norms for English words by discrete emotional categories},
+  author={Stevenson, Ryan A and Mikels, Joseph A and James, Thomas W},
+  journal={Behavior research methods},
+  volume={39},
+  number={4},
+  pages={1020--1024},
+  year={2007},
+  publisher={Springer}
+}",emotionfear_stevenson,"Mean participant rating of word on how strongly the word elicits fear (1=not at all, 5=extremely)","@article{stevenson2007characterization,
+  title={Characterization of the affective norms for English words by discrete emotional categories},
+  author={Stevenson, Ryan A and Mikels, Joseph A and James, Thomas W},
+  journal={Behavior research methods},
+  volume={39},
+  number={4},
+  pages={1020--1024},
+  year={2007},
+  publisher={Springer}
+}",emotiondisgust_stevenson,"Mean participant rating of word on how strongly the word elicits disgust (1=not at all, 5=extremely)","@article{stevenson2007characterization,
+  title={Characterization of the affective norms for English words by discrete emotional categories},
+  author={Stevenson, Ryan A and Mikels, Joseph A and James, Thomas W},
+  journal={Behavior research methods},
+  volume={39},
+  number={4},
+  pages={1020--1024},
+  year={2007},
+  publisher={Springer}
+}",emotioniconicity_perry,Words rated on a scale from -5 (word sounds like the opposite of what it means to 0 (arbitrary) to 1 (word sounds like what it means),"@article{perry2018iconicity,
+  title={Iconicity in the speech of children and adults},
+  author={Perry, Lynn K and Perlman, Marcus and Winter, Bodo and Massaro, Dominic W and Lupyan, Gary},
+  journal={Developmental Science},
+  volume={21},
+  number={3},
+  pages={e12572},
+  year={2018},
+  publisher={Wiley Online Library}
+}",iconicity/transparencydifficulty_rudell,"Mean ratings of the difficulty of each word on a 5-point scale (x100) based on the level of development typically needed for use and comprehension by: (1) a six-year old child, (2) a grade school student, (3) a high school student, (4) a well-read adult, or (5) a professor in his/her particular field of expertis","@article{rudell1993frequency,
+  title={Frequency of word usage and perceived word difficulty: Ratings of Ku{\v{c}}era and Francis words},
+  author={Rudell, Alan P},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={25},
+  number={4},
+  pages={455--463},
+  year={1993},
+  publisher={Springer}
+}",age_of_acquisitionimageability_chiarello,"Mean imageability rating on 7-point scale (1 = not
+at all imageable; 7 = highly imageable)","@article{chiarello1999imageability,
+  title={Imageability and distributional typicality measures of nouns and verbs in contemporary English},
+  author={Chiarello, Christine and Shears, Connie and Lund, Kevin},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={31},
+  number={4},
+  pages={603--637},
+  year={1999},
+  publisher={Springer}
+}",imageabilityrt_chiarello," time from the onset ofthe stimulus
+ward until the Enter key was pressed.","@article{chiarello1999imageability,
+  title={Imageability and distributional typicality measures of nouns and verbs in contemporary English},
+  author={Chiarello, Christine and Shears, Connie and Lund, Kevin},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={31},
+  number={4},
+  pages={603--637},
+  year={1999},
+  publisher={Springer}
+}",semantic_decisionpersonal_use_janschewitz,"Rated on a scale of 1 to 9, indicating the frequency with which the participant uses the word themselves, with 1 being ""never use"" and 9 being ""use very often.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",familiarityfamiliarity_janschewitz,"Rated on a scale of 1 to 9, reflecting how often the participant has encountered the word in any context (heard, read, etc.), with 1 being ""not familiar"" and 9 being ""very familiar.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",familiarityoffensiveness_janschewitz,"Rated on a scale of 1 to 9, indicating the extent to which the participant finds the word personally offensive or upsetting, with 1 being ""not offensive"" and 9 being ""highly offensive.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",social/moraltabooness_janschewitz,"Rated on a scale of 1 to 9, indicating the perceived offensiveness or upsetting nature of the word to people in general, considering multiple contexts and speakers, with 1 being ""not taboo"" and 9 being ""highly taboo.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",social/moralvalence_janschewitz,"Rated on a scale of 1 to 9, representing the participant's evaluation of the word as good or bad, with larger numbers indicating a more positive evaluation, smaller numbers indicating a more negative evaluation, and 5 indicating neutrality.","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",valencearousal_janschewitz,"Rated on a scale of 1 to 9, indicating the extent to which the word is exciting or attention-grabbing, with 1 being ""not arousing"" and 9 being ""highly arousing.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",arousalimageability_janschewitz,"Rated on a scale of 1 to 9, reflecting how easily a participant can form a mental image of the word, with 1 being ""difficult to imagine"" and 9 being ""easily imaginable.""","@article{janschewitz2008taboo,
+  title={Taboo, emotionally valenced, and emotionally neutral word norms},
+  author={Janschewitz, Kristin},
+  journal={Behavior research methods},
+  volume={40},
+  number={4},
+  pages={1065--1074},
+  year={2008},
+  publisher={Springer}
+}",imageabilityperc_known_britz,Mean percentage of participants who indicated they know the meaning of the word (across three rated norms),"@article{britz2023english,
+  title={An English list of trait words including valence, social desirability, and observability ratings},
+  author={Britz, Sara and Rader, Lena and Gauggel, Siegfried and Mainz, Verena},
+  journal={Behavior Research Methods},
+  volume={55},
+  number={5},
+  pages={2669--2686},
+  year={2023},
+  publisher={Springer}
+}",familiarityvalence_britz,"Mean valence ratings on a scale of -3 (extremely negative) to +3 (extremely positive), with 0=neutral","@article{britz2023english,
+  title={An English list of trait words including valence, social desirability, and observability ratings},
+  author={Britz, Sara and Rader, Lena and Gauggel, Siegfried and Mainz, Verena},
+  journal={Behavior Research Methods},
+  volume={55},
+  number={5},
+  pages={2669--2686},
+  year={2023},
+  publisher={Springer}
+}",valencesocial_des_britz,Mean social desirability ratings on a scale of -3 (extemely socially undesirable) to +3 (extremely socially desirable),"@article{britz2023english,
+  title={An English list of trait words including valence, social desirability, and observability ratings},
+  author={Britz, Sara and Rader, Lena and Gauggel, Siegfried and Mainz, Verena},
+  journal={Behavior Research Methods},
+  volume={55},
+  number={5},
+  pages={2669--2686},
+  year={2023},
+  publisher={Springer}
+}",social/moralobservability_britz,Mean ratings on a scale of 1 (extremely difficult to observe) to 4 (extremely easy to observe),"@article{britz2023english,
+  title={An English list of trait words including valence, social desirability, and observability ratings},
+  author={Britz, Sara and Rader, Lena and Gauggel, Siegfried and Mainz, Verena},
+  journal={Behavior Research Methods},
+  volume={55},
+  number={5},
+  pages={2669--2686},
+  year={2023},
+  publisher={Springer}
+}",sensoryaoa_rodriguez,"Mean estimate of the age the participant learned the word, from 1 to 15+. ","@article{rodriguez2022subjective,
+  title={Subjective age of acquisition norms for 1604 English words by Spanish L2 speakers of English and their relationship with lexico-semantic, affective, sociolinguistic and proficiency variables},
+  author={Rodriguez-Cuadrado, Sara and Hinojosa, Jos{\'e} Antonio and Guasch, Marc and Romero-Rivas, Carlos and Sabater, Luc{\'\i}a and Su{\'a}rez-Coalla, Paz and Ferr{\'e}, Pilar},
+  journal={Behavior Research Methods},
+  pages={1--18},
+  year={2022},
+  publisher={Springer}
+}",age_of_acquisitionperc_known_rodriguez,Percent of participants who knew the word. ,"@article{rodriguez2022subjective,
+  title={Subjective age of acquisition norms for 1604 English words by Spanish L2 speakers of English and their relationship with lexico-semantic, affective, sociolinguistic and proficiency variables},
+  author={Rodriguez-Cuadrado, Sara and Hinojosa, Jos{\'e} Antonio and Guasch, Marc and Romero-Rivas, Carlos and Sabater, Luc{\'\i}a and Su{\'a}rez-Coalla, Paz and Ferr{\'e}, Pilar},
+  journal={Behavior Research Methods},
+  pages={1--18},
+  year={2022},
+  publisher={Springer}
+}",familiarityrt_chen,Mean time taken to decide if the word was known.,"@article{chen2019evaluating,
+  title={Evaluating objective and subjective frequency measures in L2 lexical processing},
+  author={Chen, Xiaocong and Dong, Yanping},
+  journal={Lingua},
+  volume={230},
+  pages={102738},
+  year={2019},
+  publisher={Elsevier}
+}",semantic_decisionaccuracy_chen,Mean accuracy in judging whether the word is an English word or not. ,"@article{chen2019evaluating,
+  title={Evaluating objective and subjective frequency measures in L2 lexical processing},
+  author={Chen, Xiaocong and Dong, Yanping},
+  journal={Lingua},
+  volume={230},
+  pages={102738},
+  year={2019},
+  publisher={Elsevier}
+}",semantic_decisionsubjective_frequency_chen,Mean ratings from 1 (no exposure to the word at all) to 7 (extremely frequent exposure tot he word).,"@article{chen2019evaluating,
+  title={Evaluating objective and subjective frequency measures in L2 lexical processing},
+  author={Chen, Xiaocong and Dong, Yanping},
+  journal={Lingua},
+  volume={230},
+  pages={102738},
+  year={2019},
+  publisher={Elsevier}
+}",familiarityfamiliarity_juhasz,"Rated on a scale of 1 to 7, indicating how familiar the participant is with the word, with 1 being ""not familiar at all"" and 7 being ""extremely familiar.""","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",familiarityaoa_juhasz,"Rated on a scale of 1 to 7, reflecting the age at which the participant learned the word, with 1 corresponding to ages 0–2 and 7 to age 13 or older.","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",age_of_acquisitiontransparency_juhasz,"Rated on a scale of 1 to 7, indicating how transparent the relationship between the lexemes and the meaning of the compound word is, with 1 being ""not transparent at all"" and 7 being ""completely transparent.""","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",iconicity/transparencylexeme_dominance,"Rated on a scale of 0 to 10 for lexeme meaning dominance, presumably with higher numbers indicating greater dominance, although the specific endpoints of this scale are not provided in the paper.","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",iconicity/transparencyimageability_juhasz,"Rated on a scale of 1 to 7 for imageability, where higher numbers indicate greater ease with which the word can evoke a mental image, with 1 being ""difficult to imagine"" and 7 being ""easily imaginable.""","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",imageabilitysensory_experience_juhasz,"Rated on a scale of 1 to 7 for sensory experience, where higher numbers suggest that the word evokes a stronger sensory or perceptual experience, with 1 being ""weak or no sensory experience"" and 7 being ""strong sensory experience""","@article{juhasz2015database,
+  title={A database of 629 English compound words: ratings of familiarity, lexeme meaning dominance, semantic transparency, age of acquisition, imageability, and sensory experience},
+  author={Juhasz, Barbara J and Lai, Yun-Hsuan and Woodcock, Michelle L},
+  journal={Behavior research methods},
+  volume={47},
+  pages={1004--1019},
+  year={2015},
+  publisher={Springer}
+}",sensoryemotion_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word with human emotion.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",emotionpolarity_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to positive or negative feelings in myself.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",valencesocialness_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word with relationships between people.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",social/moralmorality_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to morality, rules or any other thing that governs my behavior”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",social/moralvisual_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to shapes, forms, textures that I can see with my eyes.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",sensorymotion_self_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to my own self-generated movement.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",motorthought_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to mental activity, ideas, opinions, and judgments.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",animacycolor_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to color.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",sensorytaste_smell_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to flavors and odors I can smell and/or taste.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",sensorytactile_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “ I relate this word to sensations (e.g., texture, shape, temperature, wetness) I can feel with my hands or body.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",sensoryauditory_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to sounds, rhythms, etc. that I can hear.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",sensoryspace_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to position, place or direction.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",space/time/quantitytime_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word with time, order, or duration.”","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",space/time/quantityquantity_troche,"scale ranged from Strongly Disagree (1), through Neutral (4), to Strongly Agree (7). “I relate this word to size, amount or scope.”
+
+","@article{troche2017defining,
+  title={Defining a conceptual topography of word concreteness: Clustering properties of emotion, sensation, and magnitude among 750 English words},
+  author={Troche, Joshua and Crutch, Sebastian J and Reilly, Jamie},
+  journal={Frontiers in psychology},
+  volume={8},
+  pages={1787},
+  year={2017},
+  publisher={Frontiers Media SA}
+}",space/time/quantityfamiliarity_morrow,"Measures the personal familiarity with various items, rated on a scale from 1 (not at all familiar) to 7 (extremely familiar).","@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",familiarityperc_known_marrow,Refers to the proportion of participants who are familiar with or recognize a given item. This is expressed as a percentage.,"@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",familiaritysubjective_frequency_morrow,"Reflects how often participants encounter a concept, rated on a scale from 1 (never encountered) to 7 (encountered very frequently).","@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",familiarityvisual_complexity_marrow,"Assesses the perceived intricacy or detail of an item's appearance, rated on a scale from 1 (not complex) to 7 (highly complex).","@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",sensoryimageability_morrow,"Measures how easily an item can be visualized or mentally pictured, on a scale from 1 (not imageable) to 7 (highly imageable).","@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",imageabilityaoa_marrow,"Estimates the age at which participants believe they first learned a particular word or concept. It is measured using a scale with categories representing different age ranges, such as 0–2 years, 3–4 years, etc. up to 13+ years.","@article{morrow2005representation,
+  title={The representation of ontological category concepts as affected by healthy aging: Normative data and theoretical implications},
+  author={Morrow, Lorna I and Duffy, M Frances},
+  journal={Behavior research methods},
+  volume={37},
+  pages={608--625},
+  year={2005},
+  publisher={Springer}
+}",age_of_acquisitionaoa_cortese,"Mean estimates of the age at which participants believe they first learned a particular word or concept. It is measured using a scale with categories representing different age ranges, such as 0–2 years, 3–4 years, etc. up to 13+ years.","@article{cortese2008age,
+  title={Age of acquisition ratings for 3,000 monosyllabic words},
+  author={Cortese, Michael J and Khanna, Maya M},
+  journal={Behavior Research Methods},
+  volume={40},
+  number={3},
+  pages={791--794},
+  year={2008},
+  publisher={Springer}
+}",age_of_acquisitionaoa_rt_cortese,Mean time taken to perform the aoa rating task.,"@article{cortese2008age,
+  title={Age of acquisition ratings for 3,000 monosyllabic words},
+  author={Cortese, Michael J and Khanna, Maya M},
+  journal={Behavior Research Methods},
+  volume={40},
+  number={3},
+  pages={791--794},
+  year={2008},
+  publisher={Springer}
+}",semantic_decisionlikableness_chandler,Likableness ratings on a scale from 0 (least favorabnle or desirable in a person) to 6 (most favorable or desirable in a person).,"@article{chandler2018likeableness,
+  title={Likeableness and meaningfulness ratings of 555 (+ 487) person-descriptive words},
+  author={Chandler, Jesse},
+  journal={Journal of Research in Personality},
+  volume={72},
+  pages={50--57},
+  year={2018},
+  publisher={Elsevier}
+}",social/moralmeaningfulness_chandler,Meaingfulness ratings on a scale from 0 0 (“I have almost no idea of the meaning of this word”) to 4 (“I have a very clear and definite understanding of the meaning of this word”).,"@article{chandler2018likeableness,
+  title={Likeableness and meaningfulness ratings of 555 (+ 487) person-descriptive words},
+  author={Chandler, Jesse},
+  journal={Journal of Research in Personality},
+  volume={72},
+  pages={50--57},
+  year={2018},
+  publisher={Elsevier}
+}",familiarityemotionality_chandler,Mean rating for words rated as either 1 (emotional) or 0 (not emotional). ,"@article{chandler2018likeableness,
+  title={Likeableness and meaningfulness ratings of 555 (+ 487) person-descriptive words},
+  author={Chandler, Jesse},
+  journal={Journal of Research in Personality},
+  volume={72},
+  pages={50--57},
+  year={2018},
+  publisher={Elsevier}
+}",emotiongender_assoc_crawford,"Mean rating on a scale from 1 to 5 (1  definitely
+feminine, 2  somewhat feminine, 3  neutral, 4  somewhat masculine, and 5  definitely masculine).","@article{crawford2004champagne,
+  title={Champagne, beer, or coffee? A corpus of gender-related and neutral words},
+  author={Crawford, Jarret T and Leynes, P Andrew and Mayhorn, Christopher B and Bink, Martin L},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={36},
+  pages={444--458},
+  year={2004},
+  publisher={Springer}
+}",social/moralpolysemy_armstrong,"Represents the degree of multiple meanings of a word, calculated as entropy from participant-rated meaning frequencies. Higher values indicate a more even distribution of meanings, reflecting greater polysemy.","@article{armstrong2012edom,
+  title={eDom: Norming software and relative meaning frequencies for 544 English homonyms},
+  author={Armstrong, Blair C and Tokowicz, Natasha and Plaut, David C},
+  journal={Behavior research methods},
+  volume={44},
+  pages={1015--1027},
+  year={2012},
+  publisher={Springer}
+}",semantic_diversityimageability_rt_cortese,Reaction time (milliseconds) for performing the imageability rating task. ,"@article{cortese2004imageability,
+  title={Imageability ratings for 3,000 monosyllabic words},
+  author={Cortese, Michael J and Fugett, April},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={36},
+  number={3},
+  pages={384--387},
+  year={2004},
+  publisher={Springer}
+}",semantic_decisionimageability_cortese,Mean imageability ratings on a scale from 1 (low imager) to 7 (high imagery). ,"@article{cortese2004imageability,
+  title={Imageability ratings for 3,000 monosyllabic words},
+  author={Cortese, Michael J and Fugett, April},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={36},
+  number={3},
+  pages={384--387},
+  year={2004},
+  publisher={Springer}
+}",imageabilityvalence_citron,Mean valence from -3 (very negative) to +3 (very positive),"@article{citron2014affective,
+  title={How are affective word ratings related to lexicosemantic properties? Evidence from the Sussex Affective Word List},
+  author={Citron, Francesca MM and Weekes, Brendan S and Ferstl, Evelyn C},
+  journal={Applied Psycholinguistics},
+  volume={35},
+  number={2},
+  pages={313--331},
+  year={2014},
+  publisher={Cambridge University Press}
+}",valencearousal_citron,Mean arousal from 1 (not at all) to 7 (very high),"@article{citron2014affective,
+  title={How are affective word ratings related to lexicosemantic properties? Evidence from the Sussex Affective Word List},
+  author={Citron, Francesca MM and Weekes, Brendan S and Ferstl, Evelyn C},
+  journal={Applied Psycholinguistics},
+  volume={35},
+  number={2},
+  pages={313--331},
+  year={2014},
+  publisher={Cambridge University Press}
+}",arousalfamiliarity_citron,Mean familiarity from 1 (not at all) to 7 (very high),"@article{citron2014affective,
+  title={How are affective word ratings related to lexicosemantic properties? Evidence from the Sussex Affective Word List},
+  author={Citron, Francesca MM and Weekes, Brendan S and Ferstl, Evelyn C},
+  journal={Applied Psycholinguistics},
+  volume={35},
+  number={2},
+  pages={313--331},
+  year={2014},
+  publisher={Cambridge University Press}
+}",familiarityaoa_citron,"AoA scale was labeled using the following age ranges: 0–2, 2–4, 4–6, 6–9, 9–12, 12–16, and older than 16.","@article{citron2014affective,
+  title={How are affective word ratings related to lexicosemantic properties? Evidence from the Sussex Affective Word List},
+  author={Citron, Francesca MM and Weekes, Brendan S and Ferstl, Evelyn C},
+  journal={Applied Psycholinguistics},
+  volume={35},
+  number={2},
+  pages={313--331},
+  year={2014},
+  publisher={Cambridge University Press}
+}",age_of_acquisitionimageability_citron,Mean imageability from 1 (not at all) to 7 (very high),"@article{citron2014affective,
+  title={How are affective word ratings related to lexicosemantic properties? Evidence from the Sussex Affective Word List},
+  author={Citron, Francesca MM and Weekes, Brendan S and Ferstl, Evelyn C},
+  journal={Applied Psycholinguistics},
+  volume={35},
+  number={2},
+  pages={313--331},
+  year={2014},
+  publisher={Cambridge University Press}
+}",imageabilityvalence_imbault,Arousal ratings on a scale from 1 (excited) to 9 (calm),"@article{imbault2021words,
+  title={How are words felt in a second language: Norms for 2,628 English words for valence and arousal by L2 speakers},
+  author={Imbault, Constance and Titone, Debra and Warriner, Amy Beth and Kuperman, Victor},
+  journal={Bilingualism: Language and Cognition},
+  volume={24},
+  number={2},
+  pages={281--292},
+  year={2021},
+  publisher={Cambridge University Press}
+}",valencearousal_imbault,Valence ratings on a scale from 1 (happy) to 9 (unhappy),"@article{imbault2021words,
+  title={How are words felt in a second language: Norms for 2,628 English words for valence and arousal by L2 speakers},
+  author={Imbault, Constance and Titone, Debra and Warriner, Amy Beth and Kuperman, Victor},
+  journal={Bilingualism: Language and Cognition},
+  volume={24},
+  number={2},
+  pages={281--292},
+  year={2021},
+  publisher={Cambridge University Press}
+}",arousalperc_known_winter,Percentage of participants that did not know the meaning or pronunciation of the word. ,"@article{winter2023iconicity,
+  title={Iconicity ratings for 14,000+ English words},
+  author={Winter, Bodo and Lupyan, Gary and Perry, Lynn K and Dingemanse, Mark and Perlman, Marcus},
+  journal={Behavior research methods},
+  pages={1--16},
+  year={2023},
+  publisher={Springer}
+}",familiarityiconicity_winter_2023,Iconicty ratings on a scale from 0 (not iconic at all) to 7 (very iconic).,"@article{winter2023iconicity,
+  title={Iconicity ratings for 14,000+ English words},
+  author={Winter, Bodo and Lupyan, Gary and Perry, Lynn K and Dingemanse, Mark and Perlman, Marcus},
+  journal={Behavior research methods},
+  pages={1--16},
+  year={2023},
+  publisher={Springer}
+}",iconicity/transparencybody_object_tillotson,"Estimate of how easily a human body can physically interact with the thing to which the word refers. A value of 1 will indicate a low body–object
+interaction rating, and a value of 7 will indicate a high body–object interaction rating.","@article{miklashevsky2018perceptual,
+  title={Perceptual experience norms for 506 Russian nouns: Modality rating, spatial localization, manipulability, imageability and other variables},
+  author={Miklashevsky, Alex},
+  journal={Journal of psycholinguistic research},
+  volume={47},
+  number={3},
+  pages={641--661},
+  year={2018},
+  publisher={Springer}
+}",motoraoa_schock,Age of acquisition ratings on a scale of 1 (0-2) to 7 (13+),"@article{schock2012age,
+  title={Age of acquisition estimates for 3,000 disyllabic words},
+  author={Schock, Jocelyn and Cortese, Michael J and Khanna, Maya M and Toppi, Sean},
+  journal={Behavior Research Methods},
+  volume={44},
+  pages={971--977},
+  year={2012},
+  publisher={Springer}
+}",age_of_acquisitionrt_schock,Reaction times for aoa ratings. ,"@article{schock2012age,
+  title={Age of acquisition estimates for 3,000 disyllabic words},
+  author={Schock, Jocelyn and Cortese, Michael J and Khanna, Maya M and Toppi, Sean},
+  journal={Behavior Research Methods},
+  volume={44},
+  pages={971--977},
+  year={2012},
+  publisher={Springer}
+}",semantic_decisionaoa_davies,Age of acquisition ratings on a scale of 1 (0-2) to 7 (13+),"@article{davies2016age,
+  title={Age of acquisition and imageability norms for base and morphologically complex words in English and in Spanish},
+  author={Davies, Shakiela K and Izura, Cristina and Socas, Rosy and Dominguez, Alberto},
+  journal={Behavior research methods},
+  volume={48},
+  pages={349--365},
+  year={2016},
+  publisher={Springer}
+}",age_of_acquisitionimageability_davies,"Imageabilty ratings on a scale from 1 (""I don't know the meaning of this word"") to 8 (""very easy to evoke a mental image"")","@article{davies2016age,
+  title={Age of acquisition and imageability norms for base and morphologically complex words in English and in Spanish},
+  author={Davies, Shakiela K and Izura, Cristina and Socas, Rosy and Dominguez, Alberto},
+  journal={Behavior research methods},
+  volume={48},
+  pages={349--365},
+  year={2016},
+  publisher={Springer}
+}",imageabilitythis_rocca,Proprtion of times participants associated each word with 'this' as opposed to 'that'. ,"@article{rocca2020demonstrative,
+  title={Demonstrative reference and semantic space: a large-scale demonstrative choice task study},
+  author={Rocca, Roberta and Wallentin, Mikkel},
+  journal={Frontiers in psychology},
+  volume={11},
+  pages={629},
+  year={2020},
+  publisher={Frontiers Media SA}
+}",this/thaticonicity_winter_2017,Iconicity ratings on a scale from −5 (“words that sound like the opposite of what they mean”) to +5 (“words that sound like what they mean”).,"@article{winter2017words,
+  title={Which words are most iconic? Iconicity in English sensory words},
+  author={Winter, Bodo and Perlman, Marcus and Perry, Lynn K and Lupyan, Gary},
+  journal={Interaction Studies},
+  volume={18},
+  number={3},
+  pages={443--464},
+  year={2017},
+  publisher={John Benjamins Publishing Company Amsterdam/Philadelphia}
+}",iconicity/transparencyliving_vanarsdall,Ratings from 1 (high nonliving) to 7 (high living),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacythought_vanarsdall,Ratings form 1 (low ability to think) to 7 (high ability to think),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacyreproduction_vanarsdall,Ratings from 1 (low ability to reproduce) to 7 (high ability to reproduce),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacyperson_vanarsdall,Ratings from 1 (low similarity to a person) to 7 (high similarity to a person),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacygoals_vanarsdall,Ratings from 1 (low goal directedness) to 7 (high goal-directedness),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacymovement_vanarsdall,Ratings from 1 (low movement likelihood) to 7 (high movement likelihood),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",animacyconcreteness_vanarsdall,Ratings from 1 (highly abstract) to 7 (highty concrete),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",concretenessfamiliarity_vanarsdall,Ratings from 1 (highly unfamiliar) to 7 (highly familiar),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",familiarityimageability_vanarsdall,Ratings from 1 (low imagery) to 7 (high imagery),"@article{vanarsdall2022analyzing,
+  title={Analyzing the structure of animacy: Exploring relationships among six new animacy and 15 existing normative dimensions for 1,200 concrete nouns},
+  author={VanArsdall, Joshua E and Blunt, Janell R},
+  journal={Memory \& Cognition},
+  volume={50},
+  number={5},
+  pages={997--1012},
+  year={2022},
+  publisher={Springer}
+}",imageability
