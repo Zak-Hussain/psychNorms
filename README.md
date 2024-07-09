@@ -26,35 +26,36 @@ a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated exp
 
 Norms were manually grouped into 27 categories, which are listed below along with the number of norms and ratings in each category:
 
-| Category                   | # Norms | # Ratings | 
-|----------------------------|---------|-----------|
-| Age of Acquisition         | 16      | 73084     |
-| Animacy                    | 14      | 11689     |
-| Arousal                    | 9       | 43053     |
-| Associatability            | 3       | 1546      |
-| Autidtory Lexical Decision | 4       | 73459     |
-| Concreteness               | 6       | 45707     |
-| Dominance                  | 3       | 37834     |
-| Emotion                    | 31      | 155246    |
-| Familiarity                | 22      | 130526    |
-| Frequency                  | 10      | 596385    |
-| Goals/Needs                | 3       | 2128      |
-| Iconicity/Transparency     | 5       | 22036     |
-| Imageability               | 14      | 18723     |
-| Motor                      | 16      | 239976    |
-| Naming                     | 2       | 80960     |
-| Number of Features         | 1       | 4381      |
-| Part of Speech             | 2       | 118999    |
-| Recognition Memory         | 1       | 4743      |
-| Semantic Decision          | 10      | 32631     |
-| Semantic Diversity         | 11      | 444598    |
-| Semantic Neighborhood      | 7       | 153554    |
-| Sensory                    | 36      | 207538    |
-| Social/Moral               | 16      | 25774     |
-| Space/Time/Quantity        | 25      | 18096     |
-| This/That                  | 1       | 535       |
-| Valence                    | 18      | 54052     |
-| Visual Lexical Decision    | 6       | 262034    |
+| Category                   | # Norms | # Ratings    |
+|----------------------------|---------|--------------|
+| Age of acquisition         | 16      | 73,084       |
+| Animacy                    | 14      | 11,689       |
+| Arousal                    | 9       | 43,053       |
+| Associatability            | 3       | 1,546        |
+| Auditory lexical decision  | 4       | 73,459       |
+| Concreteness               | 6       | 45,707       |
+| Dominance                  | 3       | 37,834       |
+| Emotion                    | 31      | 155,246      |
+| Familiarity                | 22      | 130,526      |
+| Frequency                  | 10      | 596,385      |
+| Goals/needs                | 3       | 2,128        |
+| Iconicity/transparency     | 5       | 22,036       |
+| Imageability               | 14      | 18,723       |
+| Motor                      | 16      | 239,976      |
+| Naming                     | 2       | 80,960       |
+| Number of features         | 1       | 4,381        |
+| Part of speech             | 2       | 118,999      |
+| Recognition memory         | 1       | 4,743        |
+| Semantic decision          | 10      | 32,631       |
+| Semantic diversity         | 11      | 444,598      |
+| Semantic neighborhood      | 7       | 153,554      |
+| Sensory                    | 36      | 207,538      |
+| Social/moral               | 16      | 25,774       |
+| Space/time/quantity        | 25      | 18,096       |
+| This/that                  | 1       | 535          |
+| Valence                    | 18      | 54,052       |
+| Visual lexical decision    | 6       | 262,034      |
+
 
 
 
