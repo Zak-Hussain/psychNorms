@@ -1,6 +1,6 @@
 # psychNorms
 
-A systematically-derived metabase of XX psychological word norms, obtained for the sake of interpretability analyses in the following paper:
+A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper:
 
 ```
 @article{hussain2024probing,
@@ -15,7 +15,8 @@ A systematically-derived metabase of XX psychological word norms, obtained for t
 The metabase is the result of a systematic literature search for psychological word norms, in which 3056 articles containing relevant keywords were screened
 (see section 'psychNorms' in the paper for more details). Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
-a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, with a total of 2,859,287 ratings:
+a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
+are the unique result of the systematic literature search. 
 
 | Source                 | # Norms | # Ratings     |
 |------------------------|---------|---------------|
