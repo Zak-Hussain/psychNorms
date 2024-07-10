@@ -20,9 +20,9 @@ are the unique result of the systematic literature search (which returned 171 no
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
+| Literature search       | 171     | 871,510       |
 | SCOPE                   | 97      | 2,675,855     |
 | Experiential attributes | 65      | 34,710        |
-| Literature search       | 171     | 871,510       |
 | **Total (unique)**      | **292** | **2,859,410** |
 
 Norms were manually grouped into 27 categories, which are listed below along with the number of norms and ratings in each category:
