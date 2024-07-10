@@ -16,7 +16,7 @@ The metabase is the result of a systematic literature search for psychological w
 (see section 'psychNorms' in the paper for more details). Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
-are the unique result of the systematic literature search (which returned 171 norms). 
+are the unique result of the systematic literature search. The search returned 171 norms, 41 of which also exist in SCOPE.   
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
