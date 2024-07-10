@@ -19,48 +19,47 @@ a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated exp
 
 | Source                 | # norms | # ratings     |
 |------------------------|---------|---------------|
-| SCOPE                  | 97      | 2,710,387     |
+| SCOPE                  | 97      | 2,675,855     |
 | Experiential attributes | 65      | 34,710        |
-| Literature search      | 130     | 148,900       |
-| **Total**  | **292** | **2,859,287** |
+| Literature search      | 130     | 140,023       |
+| **Total**  | **292** | **2,859,410** |
 
 Norms were manually grouped into 27 categories, which are listed below along with the number of norms and ratings in each category:
 
-| Category                   | # Norms | # Ratings    |
-|----------------------------|---------|--------------|
-| Age of acquisition         | 16      | 73,084       |
-| Animacy                    | 14      | 11,689       |
-| Arousal                    | 9       | 43,053       |
-| Associatability            | 3       | 1,546        |
-| Auditory lexical decision  | 4       | 73,459       |
-| Concreteness               | 6       | 45,707       |
-| Dominance                  | 3       | 37,834       |
-| Emotion                    | 31      | 155,246      |
-| Familiarity                | 22      | 130,526      |
-| Frequency                  | 10      | 596,385      |
-| Goals/needs                | 3       | 2,128        |
-| Iconicity/transparency     | 5       | 22,036       |
-| Imageability               | 14      | 18,723       |
-| Motor                      | 16      | 239,976      |
-| Naming                     | 2       | 80,960       |
-| Number of features         | 1       | 4,381        |
-| Part of speech             | 2       | 118,999      |
-| Recognition memory         | 1       | 4,743        |
-| Semantic decision          | 10      | 32,631       |
-| Semantic diversity         | 11      | 444,598      |
-| Semantic neighborhood      | 7       | 153,554      |
-| Sensory                    | 36      | 207,538      |
-| Social/moral               | 16      | 25,774       |
-| Space/time/quantity        | 25      | 18,096       |
-| This/that                  | 1       | 535          |
-| Valence                    | 18      | 54,052       |
-| Visual lexical decision    | 6       | 262,034      |
-
-
+| Category                  | # Norms | # Ratings  |
+|---------------------------|---------|------------|
+| Age of Acquisition        | 16      | 73,084     |
+| Animacy                   | 14      | 11,689     |
+| Arousal                   | 9       | 43,053     |
+| Associatability           | 3       | 1,546      |
+| Auditory Lexical Decision | 4       | 73,459     |
+| Concreteness              | 6       | 45,707     |
+| Dominance                 | 3       | 37,834     |
+| Emotion                   | 31      | 155,246    |
+| Familiarity               | 22      | 130,592    |
+| Frequency                 | 10      | 596,385    |
+| Goals/Needs               | 3       | 2,128      |
+| Iconicity/Transparency    | 5       | 22,036     |
+| Imageability              | 14      | 18,713     |
+| Motor                     | 16      | 239,976    |
+| Naming                    | 2       | 80,960     |
+| Number of Features        | 1       | 4,381      |
+| Part of Speech            | 2       | 118,999    |
+| Recognition Memory        | 1       | 4,743      |
+| Semantic Decision         | 10      | 32,631     |
+| Semantic Diversity        | 11      | 444,598    |
+| Semantic Neighborhood     | 7       | 153,554    |
+| Sensory                   | 36      | 207,538    |
+| Social/Moral              | 16      | 25,841     |
+| Space/Time/Quantity       | 25      | 18,096     |
+| This/That                 | 1       | 535        |
+| Valence                   | 18      | 54,052     |
+| Visual Lexical Decision   | 6       | 262,034    |
+| **Total**                 | **292** | **2,859,410** |
 
 
 The metabase is composed of two files:
 - `psychNorms.csv.zip`: Contains XX psychological norms (columns) at the word level (rows).
 - `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`.
 
-Norms with title cased names are norms that also exist in SCOPE or the experiential attributes dataset. The remaining norms are uniquely derived from the systematic literature search.
+Norms with title cased names are norms that also exist in SCOPE or the experiential attributes dataset.  The remaining norms are uniquely derived from the systematic literature search.
