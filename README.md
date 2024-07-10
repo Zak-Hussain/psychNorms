@@ -17,7 +17,7 @@ The metabase is the result of a systematic literature search for psychological w
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, with a total of 2,859,287 ratings:
 
-| Source                 | # norms | # ratings     |
+| Source                 | # Norms | # Ratings     |
 |------------------------|---------|---------------|
 | SCOPE                  | 97      | 2,675,855     |
 | Experiential attributes | 65      | 34,710        |
