@@ -430,7 +430,7 @@ familiarity_garrido,"subjective rating of how frequently the person reads, speak
   year={2021},
   publisher={Taylor \& Francis}
 }",familiarity
-angry_zupan,Degree to which word represents angry,"@article{zupan2023categorising,
+angry_zupan,Degree to which word represents angry (1 = not at all; 9 = extremely well),"@article{zupan2023categorising,
   title={Categorising emotion words: the influence of response options},
   author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
   journal={Language and Cognition},
@@ -440,7 +440,7 @@ angry_zupan,Degree to which word represents angry,"@article{zupan2023categorisin
   year={2023},
   publisher={Cambridge University Press}
 }",emotion
-fearful_zupan,Degree to which word represents fearful,"@article{zupan2023categorising,
+fearful_zupan,Degree to which word represents fearful (1 = not at all; 9 = extremely well),"@article{zupan2023categorising,
   title={Categorising emotion words: the influence of response options},
   author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
   journal={Language and Cognition},
@@ -450,7 +450,7 @@ fearful_zupan,Degree to which word represents fearful,"@article{zupan2023categor
   year={2023},
   publisher={Cambridge University Press}
 }",emotion
-happy_zupan,Degree to which word represents happy,"@article{zupan2023categorising,
+happy_zupan,"Degree to which word represents ""happy"" (1 = not at all; 9 = extremely well)","@article{zupan2023categorising,
   title={Categorising emotion words: the influence of response options},
   author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
   journal={Language and Cognition},
@@ -470,7 +470,7 @@ intensity_zupan,Participnt ratings of intensity (1 = extremely low; 9 = extremel
   year={2023},
   publisher={Cambridge University Press}
 }",emotion
-neutral_zupan,Degree to which word represents neutral,"@article{zupan2023categorising,
+neutral_zupan,Degree to which word represents neutral (1 = not at all; 9 = extremely well),"@article{zupan2023categorising,
   title={Categorising emotion words: the influence of response options},
   author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
   journal={Language and Cognition},
@@ -480,7 +480,7 @@ neutral_zupan,Degree to which word represents neutral,"@article{zupan2023categor
   year={2023},
   publisher={Cambridge University Press}
 }",valence
-sad_zupan,Degree to which word represents sad,"@article{zupan2023categorising,
+sad_zupan,Degree to which word represents sad (1 = not at all; 9 = extremely well),"@article{zupan2023categorising,
   title={Categorising emotion words: the influence of response options},
   author={Zupan, Barbra and Dempsey, Lynn and Hartwell, Katelyn},
   journal={Language and Cognition},
