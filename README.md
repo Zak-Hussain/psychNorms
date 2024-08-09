@@ -20,7 +20,7 @@ are the unique result of the systematic literature search. The search returned 1
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
-| Literature search       | 171     | 871,510       |
+| Literature search       | 181     | 871,510       |
 | SCOPE                   | 97      | 2,675,855     |
 | Experiential attributes | 65      | 34,710        |
 | **Total (unique)**      | **292** | **2,859,410** |
