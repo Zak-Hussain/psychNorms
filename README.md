@@ -5,7 +5,7 @@ A systematically-derived metabase of 292 psychological word norms, obtained for 
 ```
 @article{hussain2024probing,
   title={Probing the contents of text, brain, and behavior data toward improving human-LLM alignment},
-  author={Zak Hussain and Rui Mata and Ben Newell and Dirk U. Wulff},
+  author={Zak Hussain and Rui Mata and Ben R. Newell and Dirk U. Wulff},
   journal={arXiv},
   year={2024}
   url={https://arxiv.org/XX}
