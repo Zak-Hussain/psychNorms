@@ -1217,7 +1217,7 @@ imageability_citron,Mean imageability from 1 (not at all) to 7 (very high),"@art
   year={2014},
   publisher={Cambridge University Press}
 }",imageability
-valence_imbault,Arousal ratings on a scale from 1 (excited) to 9 (calm),"@article{imbault2021words,
+valence_imbault,Valence ratings on a scale from 1 (happy) to 9 (unhappy),"@article{imbault2021words,
   title={How are words felt in a second language: Norms for 2,628 English words for valence and arousal by L2 speakers},
   author={Imbault, Constance and Titone, Debra and Warriner, Amy Beth and Kuperman, Victor},
   journal={Bilingualism: Language and Cognition},
@@ -1227,7 +1227,7 @@ valence_imbault,Arousal ratings on a scale from 1 (excited) to 9 (calm),"@articl
   year={2021},
   publisher={Cambridge University Press}
 }",valence
-arousal_imbault,Valence ratings on a scale from 1 (happy) to 9 (unhappy),"@article{imbault2021words,
+arousal_imbault,Arousal ratings on a scale from 1 (excited) to 9 (calm),"@article{imbault2021words,
   title={How are words felt in a second language: Norms for 2,628 English words for valence and arousal by L2 speakers},
   author={Imbault, Constance and Titone, Debra and Warriner, Amy Beth and Kuperman, Victor},
   journal={Bilingualism: Language and Cognition},
