@@ -1,6 +1,6 @@
 # psychNorms
 
-A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper:
+A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
 
 ```
 @article{hussain2024probing,
