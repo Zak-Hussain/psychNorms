@@ -29,6 +29,10 @@ are the unique result of the systematic literature search. The search returned 1
 | Experiential attributes | 65      | 34,710        |
 | **Total (unique)**      | **292** | **2,859,410** |
 
+It should be noted that we draw on the [publicly available](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/search.php) version of SCOPE, 
+which contains ratings for a reduced set of (higher frequency) words to limit the size of the dataset for practical, data sharing reasons. This mainly impacts
+the more objective (non-human rated) norms in the metabase (e.g., frequency, part of speech), which contain a higher proportion of lower frequency words.
+
 Norms were manually grouped into 27 categories, which are listed below along with the number of norms and ratings in each category:
 
 | Category                  | # Norms | # Ratings  |
