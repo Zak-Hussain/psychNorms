@@ -12,8 +12,12 @@ A systematically-derived metabase of 292 psychological word norms, obtained for 
 }
 ```
 
-The metabase is the result of a systematic literature search for psychological word norms, in which 3056 articles containing relevant keywords were screened
-(see section 'psychNorms' in the paper for more details). Following several rounds of screening, the results were combined with various psychological norms from the 
+Certainly! Here's a revised version with improved flow:
+
+The metabase was developed through a systematic literature search for psychological word norms. 
+A total of 3,056 Web of Science articles matching the query `((word OR words) NEAR/10 (norm OR norms)) OR ((word OR words) NEAR/10 (rating OR ratings))` were screened 
+in multiple rounds to identify primary data containing human-rated (behavioral) word properties in English.
+Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
 are the unique result of the systematic literature search. The search returned 171 norms, 41 of which also exist in SCOPE.   
