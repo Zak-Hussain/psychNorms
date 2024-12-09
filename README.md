@@ -1,4 +1,4 @@
-# psychNorms
+## psychNorms
 
 A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
 
@@ -13,8 +13,6 @@ A systematically-derived metabase of 292 psychological word norms, obtained for 
       url={https://arxiv.org/abs/2412.04936}, 
 }
 ```
-
-Certainly! Here's a revised version with improved flow:
 
 The metabase was developed through a systematic literature search for psychological word norms. 
 A total of 3,056 Web of Science articles matching the query `((word OR words) NEAR/10 (norm OR norms)) OR ((word OR words) NEAR/10 (rating OR ratings))` were screened 
@@ -71,4 +69,12 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 
 The metabase is composed of two files:
 - `psychNorms.zip`: Contains 292 psychological norms (columns) at the word level (rows).
-- `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`.
+- `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`, with the following columns:
+  - `norm`: Name of the norm.
+  - `description`: Description of the norm.
+  - `citation`: Original source of the norm.
+  - `category`: High-level category for the norm.
+  - `source`: (Meta-)Source of the norm (`SCOPE`, `experiential_attributes`, or `lit_search`).
+
+
+
