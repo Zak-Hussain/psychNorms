@@ -3,12 +3,14 @@
 A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
 
 ```
-@article{hussain2024probing,
-  title={Probing the Contents of Semantic Representations from Text, Behavior, and Brain Data Using the psychNorms Metabase},
-  author={Zak Hussain and Rui Mata and Ben R. Newell and Dirk U. Wulff},
-  journal={arXiv},
-  year={2024}
-  url={https://arxiv.org/XX}
+@misc{hussain2024probingcontentssemanticrepresentations,
+      title={Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase}, 
+      author={Zak Hussain and Rui Mata and Ben R. Newell and Dirk U. Wulff},
+      year={2024},
+      eprint={2412.04936},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.04936}, 
 }
 ```
 
