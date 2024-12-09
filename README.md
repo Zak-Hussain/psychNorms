@@ -72,5 +72,3 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 The metabase is composed of two files:
 - `psychNorms.zip`: Contains 292 psychological norms (columns) at the word level (rows).
 - `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`.
-
-Norms with title cased names are norms that also exist in SCOPE or the experiential attributes dataset.  The remaining norms are uniquely derived from the systematic literature search.
