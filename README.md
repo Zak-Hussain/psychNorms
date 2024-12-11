@@ -25,8 +25,8 @@ are the unique result of the systematic literature search. The search returned 1
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
 | Literature search       | 181     | 871,510       |
-| SCOPE                   | 97      | 2,675,855     |
-| Experiential attributes | 65      | 34,710        |
+| [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,675,855     |
+| [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,710        |
 | **Total (unique)**      | **292** | **2,859,410** |
 
 It should be noted that we draw on the [publicly available](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/search.php) version of SCOPE, 
