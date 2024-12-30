@@ -20,11 +20,11 @@ in multiple rounds to identify primary data containing human-rated (behavioral) 
 Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
-are the unique result of the systematic literature search. The search returned 171 norms, 42 of which also exist in SCOPE.   
+are the unique result of the systematic literature search. The search returned 174 norms, 42 of which also exist in SCOPE.   
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
-| Literature search       | 173     | 906,177       |
+| Literature search       | 174     | 906,806       |
 | [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,670,629     |
 | [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,532        |
 | **Total (unique)**      | **291** | **2,853,555** |
