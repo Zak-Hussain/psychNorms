@@ -74,7 +74,7 @@ The metabase is composed of two files:
   - `description`: Description of the norm.
   - `citation`: Original source of the norm.
   - `category`: High-level category for the norm.
-  - `source`: (Meta-)Source of the norm (`lit_search`, `SCOPE`, `experiential_attributes`, or some combination if the norm comes from multiple sources, e.g., `SCOPE & lit_search`).
+  - `source`: (Meta-)Source of the norm (`lit_search`, `SCOPE`, `experiential_attributes`, or some combination, e.g., `SCOPE & lit_search`).
 
 
 
