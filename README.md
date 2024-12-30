@@ -1,6 +1,6 @@
 ## psychNorms
 
-A systematically-derived metabase of 292 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
+A systematically-derived metabase of 290 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
 
 ```
 @misc{hussain2024probingcontentssemanticrepresentations,
@@ -19,8 +19,8 @@ A total of 3,056 Web of Science articles matching the query `((word OR words) NE
 in multiple rounds to identify primary data containing human-rated (behavioral) word properties in English.
 Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
-a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
-are the unique result of the systematic literature search. The search returned 174 norms, 42 of which also exist in SCOPE.   
+a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 290 norms, 128 of which 
+are the unique result of the systematic literature search. The search returned 173 norms, 45 of which also exist in SCOPE.   
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
@@ -68,7 +68,7 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 
 
 The metabase is composed of two files:
-- `psychNorms.zip`: Contains 292 psychological norms (columns) at the word level (rows).
+- `psychNorms.zip`: Contains 290 psychological norms (columns) at the word level (rows).
 - `psychNorms_metadata.csv`: Contains metadata for each of the norms in `psychNorms.csv`, with the following columns:
   - `norm`: Name of the norm.
   - `description`: Description of the norm.
