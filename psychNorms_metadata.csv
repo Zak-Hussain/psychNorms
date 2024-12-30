@@ -224,8 +224,6 @@ fear_stevenson,"Mean participant rating of word on how strongly the word elicits
 ",emotion,lit_search
 disgust_stevenson,"Mean participant rating of word on how strongly the word elicits disgust (1=not at all, 5=extremely)","Stevenson, R. A., Mikels, J. A., & James, T. W. (2007). Characterization of the affective norms for English words by discrete emotional categories. Behavior Research Methods, 39(4), 1020–1024.
 ",emotion,lit_search
-iconicity_perry,Words rated on a scale from -5 (word sounds like the opposite of what it means to 0 (arbitrary) to 1 (word sounds like what it means),"Perry, L. K., Perlman, M., Winter, B., Massaro, D. W., & Lupyan, G. (2018). Iconicity in the speech of children and adults. Developmental Science, 21(3), e12572.
-",iconicity/transparency,lit_search
 goodness_brown,Mean goodness on a 7-point scale (good-bad),"Brown, W. P., & Ure, D. M. J. (1969). Five rated characteristics of 650 word association stimuli. British Journal of Psychology, 60(2), 233–249.
 ",valence,lit_search
 pleasantness_brown,Mean pleasentenss on a 7-point scale (pleasent-unpleasent),"Brown, W. P., & Ure, D. M. J. (1969). Five rated characteristics of 650 word association stimuli. British Journal of Psychology, 60(2), 233–249.

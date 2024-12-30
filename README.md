@@ -24,10 +24,10 @@ are the unique result of the systematic literature search. The search returned 1
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
-| Literature search       | 174     | 906,806       |
+| Literature search       | 173     | 903,805       |
 | [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,670,629     |
 | [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,532        |
-| **Total (unique)**      | **291** | **2,853,555** |
+| **Total (unique)**      | **290** | **2,850,554** |
 
 It should be noted that we draw on the [publicly available](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/search.php) version of SCOPE, 
 which contains ratings for a reduced set of (higher frequency) words to limit the size of the dataset for practical, data sharing reasons. This mainly impacts
@@ -48,7 +48,7 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 | Familiarity               | 22      | 130,592       |
 | Frequency                 | 10      | 596,385       |
 | Goals/Needs               | 3       | 2,128         |
-| Iconicity/Transparency    | 5       | 22,036        |
+| Iconicity/Transparency    | 4       | 19,035        |
 | Imageability              | 14      | 18,713        |
 | Motor                     | 16      | 239,976       |
 | Naming                    | 2       | 80,960        |
@@ -64,7 +64,7 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 | This/That                 | 1       | 535           |
 | Valence                   | 18      | 54,052        |
 | Visual Lexical Decision   | 6       | 262,034       |
-| **Total**                 | **291** | **2,853,555** |
+| **Total**                 | **290** | **2,850,554** |
 
 
 The metabase is composed of two files:
