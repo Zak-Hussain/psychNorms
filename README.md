@@ -20,14 +20,14 @@ in multiple rounds to identify primary data containing human-rated (behavioral) 
 Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
 a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 292 norms, 130 of which 
-are the unique result of the systematic literature search. The search returned 171 norms, 41 of which also exist in SCOPE.   
+are the unique result of the systematic literature search. The search returned 171 norms, 42 of which also exist in SCOPE.   
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
-| Literature search       | 181     | 871,510       |
-| [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,675,855     |
-| [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,710        |
-| **Total (unique)**      | **292** | **2,859,410** |
+| Literature search       | 173     | 906,177       |
+| [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,670,629     |
+| [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,532        |
+| **Total (unique)**      | **291** | **2,853,555** |
 
 It should be noted that we draw on the [publicly available](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/search.php) version of SCOPE, 
 which contains ratings for a reduced set of (higher frequency) words to limit the size of the dataset for practical, data sharing reasons. This mainly impacts
@@ -35,36 +35,36 @@ the more objective (non-human rated) norms in the metabase (e.g., frequency, par
 
 Norms were manually grouped into 27 categories, which are listed below along with the number of norms and ratings in each category:
 
-| Category                  | # Norms | # Ratings  |
-|---------------------------|---------|------------|
-| Age of Acquisition        | 16      | 73,084     |
-| Animacy                   | 14      | 11,689     |
-| Arousal                   | 9       | 43,053     |
-| Associatability           | 3       | 1,546      |
-| Auditory Lexical Decision | 4       | 73,459     |
-| Concreteness              | 6       | 45,707     |
-| Dominance                 | 3       | 37,834     |
-| Emotion                   | 31      | 155,246    |
-| Familiarity               | 22      | 130,592    |
-| Frequency                 | 10      | 596,385    |
-| Goals/Needs               | 3       | 2,128      |
-| Iconicity/Transparency    | 5       | 22,036     |
-| Imageability              | 14      | 18,713     |
-| Motor                     | 16      | 239,976    |
-| Naming                    | 2       | 80,960     |
-| Number of Features        | 1       | 4,381      |
-| Part of Speech            | 2       | 118,999    |
-| Recognition Memory        | 1       | 4,743      |
-| Semantic Decision         | 10      | 32,631     |
-| Semantic Diversity        | 11      | 444,598    |
-| Semantic Neighborhood     | 7       | 153,554    |
-| Sensory                   | 36      | 207,538    |
-| Social/Moral              | 16      | 25,841     |
-| Space/Time/Quantity       | 25      | 18,096     |
-| This/That                 | 1       | 535        |
-| Valence                   | 18      | 54,052     |
-| Visual Lexical Decision   | 6       | 262,034    |
-| **Total**                 | **292** | **2,859,410** |
+| Category                  | # Norms | # Ratings     |
+|---------------------------|---------|---------------|
+| Age of Acquisition        | 16      | 73,084        |
+| Animacy                   | 14      | 11,689        |
+| Arousal                   | 9       | 43,053        |
+| Associatability           | 3       | 1,546         |
+| Auditory Lexical Decision | 4       | 73,459        |
+| Concreteness              | 6       | 45,707        |
+| Dominance                 | 3       | 37,834        |
+| Emotion                   | 31      | 155,246       |
+| Familiarity               | 22      | 130,592       |
+| Frequency                 | 10      | 596,385       |
+| Goals/Needs               | 3       | 2,128         |
+| Iconicity/Transparency    | 5       | 22,036        |
+| Imageability              | 14      | 18,713        |
+| Motor                     | 16      | 239,976       |
+| Naming                    | 2       | 80,960        |
+| Number of Features        | 1       | 4,381         |
+| Part of Speech            | 2       | 118,999       |
+| Recognition Memory        | 1       | 4,743         |
+| Semantic Decision         | 10      | 32,631        |
+| Semantic Diversity        | 11      | 444,598       |
+| Semantic Neighborhood     | 7       | 153,554       |
+| Sensory                   | 35      | 201,683       |
+| Social/Moral              | 16      | 25,841        |
+| Space/Time/Quantity       | 25      | 18,096        |
+| This/That                 | 1       | 535           |
+| Valence                   | 18      | 54,052        |
+| Visual Lexical Decision   | 6       | 262,034       |
+| **Total**                 | **291** | **2,853,555** |
 
 
 The metabase is composed of two files:
@@ -74,7 +74,7 @@ The metabase is composed of two files:
   - `description`: Description of the norm.
   - `citation`: Original source of the norm.
   - `category`: High-level category for the norm.
-  - `source`: (Meta-)Source of the norm (`lit_search`, `SCOPE`, or `experiential_attributes`).
+  - `source`: (Meta-)Source of the norm (`lit_search`, `SCOPE`, `experiential_attributes`, or some combination if the norm comes from multiple sources, e.g., `SCOPE & lit_search`).
 
 
 
