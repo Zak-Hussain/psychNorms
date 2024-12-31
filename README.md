@@ -1,6 +1,6 @@
 ## psychNorms
 
-A systematically-derived metabase of 290 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
+A systematically-derived metabase of 291 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
 
 ```
 @misc{hussain2024probingcontentssemanticrepresentations,
@@ -19,15 +19,15 @@ A total of 3,056 Web of Science articles matching the query `((word OR words) NE
 in multiple rounds to identify primary data containing human-rated (behavioral) word properties in English.
 Following several rounds of screening, the results were combined with various psychological norms from the 
 South Carolina Psycholinguistic Metabases ([SCOPE](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)) and 
-a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 290 norms, 128 of which 
+a [dataset](https://doi.org/10.1080/02643294.2016.1147426) of 65 human-rated experiential attributes. The final metabase contains 291 norms, 128 of which 
 are the unique result of the systematic literature search. The search returned 173 norms, 45 of which also exist in SCOPE.   
 
 | Source                  | # Norms | # Ratings     |
 |-------------------------|---------|---------------|
-| Literature search       | 173     | 903,805       |
-| [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 97      | 2,670,629     |
+| Literature search       | 174     | 909,660       |
+| [SCOPE](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/)                   | 98      | 2,676,484     |
 | [Experiential attributes](https://doi.org/10.1080/02643294.2016.1147426) | 65      | 34,532        |
-| **Total (unique)**      | **290** | **2,850,554** |
+| **Total (unique)**      | **291** | **2,856,409** |
 
 It should be noted that we draw on the [publicly available](https://www.sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/scope/search.php) version of SCOPE, 
 which contains ratings for a reduced set of (higher frequency) words to limit the size of the dataset for practical, data sharing reasons. This mainly impacts
@@ -58,13 +58,13 @@ Norms were manually grouped into 27 categories, which are listed below along wit
 | Semantic Decision         | 10      | 32,631        |
 | Semantic Diversity        | 11      | 444,598       |
 | Semantic Neighborhood     | 7       | 153,554       |
-| Sensory                   | 35      | 201,683       |
+| Sensory                   | 36      | 207,538       |
 | Social/Moral              | 16      | 25,841        |
 | Space/Time/Quantity       | 25      | 18,096        |
 | This/That                 | 1       | 535           |
 | Valence                   | 18      | 54,052        |
 | Visual Lexical Decision   | 6       | 262,034       |
-| **Total**                 | **290** | **2,850,554** |
+| **Total**                 | **291** | **2,856,409** |
 
 
 The metabase is composed of two files:
