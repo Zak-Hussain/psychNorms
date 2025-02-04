@@ -1,18 +1,6 @@
 ## psychNorms
 
-A systematically-derived metabase of 291 psychological word norms, obtained for the sake of interpretability analyses in the following paper (please cite if you use the data):
-
-```
-@misc{hussain2024probingcontentssemanticrepresentations,
-      title={Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase}, 
-      author={Zak Hussain and Rui Mata and Ben R. Newell and Dirk U. Wulff},
-      year={2024},
-      eprint={2412.04936},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.04936}, 
-}
-```
+A systematically-derived metabase of 291 psychological word norms, obtained for the sake of interpretability analyses in the paper: "Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase".
 
 The metabase was developed through a systematic literature search for psychological word norms. 
 A total of 3,056 Web of Science articles matching the query `((word OR words) NEAR/10 (norm OR norms)) OR ((word OR words) NEAR/10 (rating OR ratings))` were screened 
